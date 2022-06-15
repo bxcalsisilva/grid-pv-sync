@@ -1,0 +1,139 @@
+{
+    "local_folder": "/media/bcalsi/BCBCA08FBCA045AC/PUCP/SFCR_Aplicada",
+    "locations": [
+        {
+            "loc": "pucp",
+            "daq": "DAQ-MS80M"
+        },
+        {
+            "loc": "uni",
+            "daq": "DAQ-MS80M"
+        },
+        {
+            "loc": "untrm",
+            "daq": "DAQ-MS80M"
+        },
+        {
+            "loc": "unaj",
+            "daq": "DAQ"
+        },
+        {
+            "loc": "unjbg",
+            "daq": "DAQ-MS80M"
+        },
+        {
+            "loc": "unsa",
+            "daq": "DAQ"
+        }
+    ],
+    "systems": [
+        {
+            "sys": "pucp-perc",
+            "loc": "pucp",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "pucp-hit",
+            "loc": "pucp",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "pucp-cigs",
+            "loc": "pucp",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        },
+        {
+            "sys": "uni-perc",
+            "loc": "uni",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "uni-hit",
+            "loc": "uni",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "uni-cigs",
+            "loc": "uni",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        },
+        {
+            "sys": "untrm-perc",
+            "loc": "untrm",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "untrm-hit",
+            "loc": "untrm",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "untrm-cigs",
+            "loc": "untrm",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        },
+        {
+            "sys": "unaj-perc",
+            "loc": "unaj",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "unaj-hit",
+            "loc": "unaj",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "unaj-cigs",
+            "loc": "unaj",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        },
+        {
+            "sys": "unjbg-perc",
+            "loc": "unjbg",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "unjbg-hit",
+            "loc": "unjbg",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "unjbg-cigs",
+            "loc": "unjbg",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        },
+        {
+            "sys": "unsa-perc",
+            "loc": "unsa",
+            "mod": "perc",
+            "sfcr": "sfcr1"
+        },
+        {
+            "sys": "unsa-hit",
+            "loc": "unsa",
+            "mod": "hit",
+            "sfcr": "sfcr2"
+        },
+        {
+            "sys": "unsa-cigs",
+            "loc": "unsa",
+            "mod": "cigs",
+            "sfcr": "sfcr3"
+        }
+    ]
+}
