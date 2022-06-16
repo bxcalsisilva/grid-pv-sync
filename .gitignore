@@ -1,6 +1,7 @@
 # Google Drive credentials
 client_secrets.json
 credentials.json
+.crontab.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
