@@ -1,4 +1,5 @@
 # Google Drive credentials
+config.json
 client_secrets.json
 credentials.json
 .crontab.*
