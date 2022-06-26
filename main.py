@@ -11,7 +11,7 @@ gauth.CommandLineAuth()
 
 drive = GoogleDrive(gauth)
 
-day = date(2022, 6, 19)
+day = date.today()
 
 config = json.load(open("config.json"))
 
