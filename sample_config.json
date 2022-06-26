@@ -23,7 +23,7 @@
         },
         {
             "loc": "unsa",
-            "daq": "DAQ"
+            "daq": "DAQ-MS80S"
         }
     ],
     "systems": [
